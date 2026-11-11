@@ -17,7 +17,7 @@ Sistema embebido de bajo costo y grado intemperie para el monitoreo continuo de 
 | **Prototipo Funcional** | ![Hardware Banco](docs/assets/prototipo.png) | ESP32-32U alimentado a 5V puenteado con la Base Shield y antena coaxial acoplada. |
 | **Enclosure Reciclado** | ![Gabinete Jabonera](docs/assets/contenedor.png) | Contenedor plástico grueso con vertedor inferior antigoteo y capuchón superior protector. |
 | **Dashboard Operativo** | ![Web UI Mobile](docs/assets/webui.png) | Vista en smartphone (`192.168.68.200`): nivel porcentual animado, volumen útil en litros y estado. |
-| **Canal de Notificaciones** | ![Alertas ntfy](docs/assets/no) | Recepción de eventos push en la app móvil ante arranques de sistema y umbrales críticos de agua. |
+| **Canal de Notificaciones** | ![Alertas ntfy](docs/assets/notificaciones.png) | Recepción de eventos push en la app móvil ante arranques de sistema y umbrales críticos de agua. |
 
 ---
 
